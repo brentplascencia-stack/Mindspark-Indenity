@@ -1,0 +1,7 @@
+{
+  "name": "MindSpark Identity Services",
+  "description": "The Digital Darkroom of the Future. High-end AI-powered photography, executive headshots, and heritage photo restoration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
